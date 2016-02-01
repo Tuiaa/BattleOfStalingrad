@@ -1,0 +1,51 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560  (ID=0x1201)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Dokumentit\Unity\BattleOfStalingrad\Battle of Stalingrad_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Dokumentit\Unity\BattleOfStalingrad\Battle of Stalingrad_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Dokumentit\Unity\BattleOfStalingrad\Battle of Stalingrad_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Dokumentit\Unity\BattleOfStalingrad\Battle of Stalingrad_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Dokumentit\Unity\BattleOfStalingrad\Battle of Stalingrad_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Dokumentit\Unity\BattleOfStalingrad\Battle of Stalingrad_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Dokumentit\Unity\BattleOfStalingrad\Battle of Stalingrad_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Dokumentit\Unity\BattleOfStalingrad\Battle of Stalingrad_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Dokumentit\Unity\BattleOfStalingrad\Battle of Stalingrad_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Dokumentit\Unity\BattleOfStalingrad\Battle of Stalingrad_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Dokumentit\Unity\BattleOfStalingrad\Battle of Stalingrad_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.092 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Dokumentit\Unity\BattleOfStalingrad\Battle of Stalingrad_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 32f0 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.300532 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 294.
+Total: 0.227320 ms (FindLiveObjects: 0.028227 ms CreateObjectMapping: 0.015615 ms MarkObjects: 0.166061 ms  DeleteObjects: 0.016816 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.571454 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.201795 ms (FindLiveObjects: 0.011411 ms CreateObjectMapping: 0.012311 ms MarkObjects: 0.171166 ms  DeleteObjects: 0.006306 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.435722 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.233326 ms (FindLiveObjects: 0.021320 ms CreateObjectMapping: 0.028827 ms MarkObjects: 0.179274 ms  DeleteObjects: 0.003303 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.402991 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.251944 ms (FindLiveObjects: 0.010209 ms CreateObjectMapping: 0.012612 ms MarkObjects: 0.225819 ms  DeleteObjects: 0.003002 ms)
+
